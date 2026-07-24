@@ -1,0 +1,57 @@
+.weather {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.form_input {
+  border-radius: 50px;
+  width: 100%;
+  border: 1px solid rgb(193, 189, 189);
+  box-shadow: 5px 5px 5px rgb(248, 247, 247);
+  padding-left: 20px;
+}
+
+.search-button {
+  border-radius: 50px;
+  width: 100%;
+  color: rgb(193, 189, 189);
+  border: 1px solid rgb(193, 189, 189);
+  box-shadow: 5px 5px 5px rgb(248, 247, 247);
+}
+
+form {
+  padding: 10px;
+}
+
+.weather-container {
+  padding: 10px;
+}
+
+h1 {
+  padding: 20px 10px;
+}
+
+.temperature_output {
+  font-size: 40px;
+  text-align: right;
+  display: inline;
+}
+
+.temperature_unit {
+  font-size: 16px;
+  text-align: left;
+  opacity: 70%;
+  display: inline;
+}
+
+.weather_data {
+  font-size: 12px;
+  opacity: 60%;
+  list-style: none;
+}
+
+.date_weather {
+  list-style: none;
+  font-size: 16px;
+  opacity: 80%;
+}
